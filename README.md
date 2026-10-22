@@ -52,9 +52,11 @@ Mi formación en economía orienta una línea de desarrollo: cuantificar los cos
 
 ## Docencia y herramientas
 
-En mi actividad docente abordo programación y bases de datos, análisis y modelización de datos, procesamiento digital de imágenes y tecnologías aplicadas al sector agropecuario.
+Mi experiencia docente incluye Estadística y Probabilidad, Programación Avanzada, Análisis y Modelización de Datos, Procesamiento Digital de Imágenes y tecnologías aplicadas al sector agropecuario.
 
-**Herramientas:** Python · SQL / SQLite · Google Colab · scikit-learn · PyTorch · OpenCV · Ultralytics YOLO · Streamlit · GitHub.
+He utilizado **R y RStudio** para el análisis estadístico, y **Power BI** para inteligencia de negocios y visualización de datos.
+
+**Herramientas:** Python · R · RStudio · SQL / SQLite · Power BI · Google Colab · scikit-learn · PyTorch · OpenCV · Ultralytics YOLO · Streamlit · GitHub.
 
 ## Criterios para interpretar mis repositorios
 
