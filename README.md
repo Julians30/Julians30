@@ -45,7 +45,7 @@ Mi formación en economía orienta una línea de desarrollo: cuantificar los cos
 
 ## Formación
 
-- Economista agropecuario.
+- **Economista agropecuario** — Universidad Técnica de Machala (UTMACH).
 - **Magíster en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de Datos Masivos** — Universidad Estatal de Milagro (UNEMI).
 - **Magíster en Economía con mención en Inteligencia Artificial Aplicada** — Universidad Estatal de Milagro (UNEMI).
 - Doctorando en Ingeniería en Sistemas — Universidad Nacional del Callao, Perú.
