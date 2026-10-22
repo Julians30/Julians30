@@ -1,6 +1,6 @@
 # Julián Coronel Reyes
 
-**Economista agropecuario · Docente investigador · Inteligencia artificial aplicada al sector agropecuario**
+**Economista agropecuario · Magíster · Docente investigador · Inteligencia artificial aplicada al sector agropecuario**
 
 Universidad Técnica de Machala (UTMACH), Ecuador · [ORCID](https://orcid.org/0000-0002-7883-5388) · [Contacto institucional](mailto:jcoronel1@utmachala.edu.ec)
 
@@ -46,8 +46,8 @@ Mi formación en economía orienta una línea de desarrollo: cuantificar los cos
 ## Formación
 
 - Economista agropecuario.
-- Maestría en Sistemas de Información.
-- Maestría en Economía con mención en Inteligencia Artificial Aplicada — Universidad Estatal de Milagro (UNEMI).
+- **Magíster en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de Datos Masivos** — Universidad Estatal de Milagro (UNEMI).
+- **Magíster en Economía con mención en Inteligencia Artificial Aplicada** — Universidad Estatal de Milagro (UNEMI).
 - Doctorando en Ingeniería en Sistemas — Universidad Nacional del Callao, Perú.
 
 ## Docencia y herramientas
