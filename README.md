@@ -54,8 +54,6 @@ Mi formación en economía orienta una línea de desarrollo: cuantificar los cos
 
 Mi experiencia docente incluye Estadística y Probabilidad, Programación Avanzada, Análisis y Modelización de Datos, Procesamiento Digital de Imágenes y tecnologías aplicadas al sector agropecuario.
 
-He utilizado **R y RStudio** para el análisis estadístico, y **Power BI** para inteligencia de negocios y visualización de datos.
-
 **Herramientas:** Python · R · RStudio · SQL / SQLite · Power BI · Google Colab · scikit-learn · PyTorch · OpenCV · Ultralytics YOLO · Streamlit · GitHub.
 
 ## Criterios para interpretar mis repositorios
