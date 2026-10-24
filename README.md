@@ -37,6 +37,7 @@ Mi formación en economía orienta una línea de desarrollo: cuantificar los cos
 
 | Proyecto | Enfoque | Estado |
 |---|---|---|
+| [Clasificación morfológica de arroz INIAP](https://github.com/Julians30/iniap-rice-ml-classification) | Comparación de algoritmos de aprendizaje automático para identificar y clasificar granos de arroz por su morfología. [DOI: 10.3390/agriengineering8030100](https://doi.org/10.3390/agriengineering8030100) | [![Publicado](https://img.shields.io/badge/Publicado-AgriEngineering%202026-2F855A?style=flat-square)](https://www.mdpi.com/2624-7402/8/3/100) |
 | [Clasificación morfométrica de fréjol INIAP](https://github.com/Julians30/INIAP-Dry-Bean-Morphometric-Classification) | Modelos clásicos y tabulares, TabPFN, calibración, predicción selectiva y análisis de redundancia. | ![En revisión](https://img.shields.io/badge/En%20revisi%C3%B3n-AgriEngineering-2E6DA4?style=flat-square) |
 | [Tiempo de almacenamiento de huevos mediante NIR](https://github.com/Julians30/Leakage-Safe-Shell-Egg-Storage-Time-Estimation-from-Portable-NIR-Spectra) | Estimación a partir de espectros portátiles con validación que mantiene separados los huevos entre particiones. | ![Aceptado](https://img.shields.io/badge/Aceptado-AgriEngineering-2F855A?style=flat-square) |
 | [Invariancia geométrica en fréjol y arroz](https://github.com/Julians30/geometric-invariance-bean-rice) | Suficiencia de la representación y evaluación de descriptores morfométricos con particiones documentadas. | ![En revisión](https://img.shields.io/badge/En%20revisi%C3%B3n-AgriEngineering-2E6DA4?style=flat-square) |
@@ -51,7 +52,6 @@ Mi formación en economía orienta una línea de desarrollo: cuantificar los cos
 |---|---|
 | [Adultos mayores y protección económica en Ecuador](https://github.com/Julians30/enemdu-2025-economic-protection-older-adults) | Segmentación económico-laboral y pensionaria con ENEMDU 2025, clasificación y explicabilidad. |
 | [Contador de arroz en tiempo real](https://github.com/Julians30/contador-arroz-tiempo-real) | Piloto de conteo de granos separados con procesamiento local en el navegador. |
-| [Clasificación inicial de arroz INIAP](https://github.com/Julians30/iniap-rice-ml-classification) | Proyecto exploratorio de morfometría y aprendizaje automático. |
 | [Centros de distribución en Ecuador](https://github.com/Julians30/Ecuador-distribution-centers) | Ejercicio de localización con demanda ilustrativa, K-means ponderado y mapas en Folium. |
 | [Tablero BI de Corporación Favorita](https://github.com/Julians30/favorita-sales-bi-dashboard) | Exploración de ventas, promociones y patrones por región y familia de productos en Streamlit. |
 
