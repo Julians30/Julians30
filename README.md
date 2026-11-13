@@ -35,30 +35,32 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 ### Published and accepted
 
 **[Machine-learning classification of INIAP rice grains](https://github.com/Julians30/iniap-rice-ml-classification)**&nbsp;&nbsp;[![Published](https://img.shields.io/badge/Published-AgriEngineering%202026-2F855A?style=flat-square)](https://www.mdpi.com/2624-7402/8/3/100)<br>
-<sub>Comparison of machine-learning algorithms for classifying rice grains by morphology · [DOI 10.3390/agriengineering8030100](https://doi.org/10.3390/agriengineering8030100)</sub>
+<sub>Comparative Evaluation of Machine Learning Algorithms for the Identification and Morphological Classification of Rice Grains · [DOI 10.3390/agriengineering8030100](https://doi.org/10.3390/agriengineering8030100)</sub>
 
 **[Shell-egg storage time from portable NIR spectra](https://github.com/Julians30/Leakage-Safe-Shell-Egg-Storage-Time-Estimation-from-Portable-NIR-Spectra)**&nbsp;&nbsp;![Accepted](https://img.shields.io/badge/Accepted-AgriEngineering-2F855A?style=flat-square)<br>
-<sub>Storage-time estimation from portable spectra with validation that keeps each egg in a single partition</sub>
+<sub>Leakage-Safe Estimation of Shell Egg Storage Time from Portable NIR Spectra</sub>
 
 **[Barley exposure stages from NIR spectra](https://github.com/Julians30/barley-nir-stage-benchmark)**&nbsp;&nbsp;![Accepted](https://img.shields.io/badge/Accepted-Springer%20CCIS-2F855A?style=flat-square)<br>
-<sub>Plate-wise nested validation, spectral interpretation and out-of-fold predictions</sub>
+<sub>Plate-wise nested validation, spectral interpretation and out-of-fold predictions (status retained from the existing repository)</sub>
 
 **[Geometric invariance in bean and rice morphometrics](https://github.com/Julians30/geometric-invariance-bean-rice)**&nbsp;&nbsp;![Accepted](https://img.shields.io/badge/Accepted-AgriEngineering-2F855A?style=flat-square)<br>
-<sub>Representation sufficiency and evaluation of morphometric descriptors with documented partitions</sub>
+<sub>Geometric Invariance and Representation Sufficiency in Morphometric Bean and Rice Classification</sub>
 
-### Under review
+**[Morphometric classification of INIAP dry beans](https://github.com/Julians30/INIAP-Dry-Bean-Morphometric-Classification)**&nbsp;&nbsp;![Accepted](https://img.shields.io/badge/Accepted-AgriEngineering-2F855A?style=flat-square)<br>
+<sub>Reliability-Oriented Morphometric Classification of INIAP Dry Bean Cultivars Using Artificial Intelligence: TabPFN, Calibration, Selective Prediction, and Redundancy Ablation</sub>
 
-**[Morphometric classification of INIAP dry beans](https://github.com/Julians30/INIAP-Dry-Bean-Morphometric-Classification)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-AgriEngineering-2E6DA4?style=flat-square)<br>
-<sub>Classical and tabular models, TabPFN, calibration, selective prediction and redundancy analysis</sub>
+**[Class–source confounding and domain shift in maize images](https://github.com/Julians30/maize-class-source-domain-shift)**&nbsp;&nbsp;![Accepted](https://img.shields.io/badge/Accepted-AgriEngineering-2F855A?style=flat-square)<br>
+<sub>Class–Source Confounding and Architecture-Selection Instability under Domain Shift: A Multi-Source Benchmark for Maize Disease and Pest Image Classification</sub>
 
-**[Class–source confounding and domain shift in maize images](https://github.com/Julians30/maize-class-source-domain-shift)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-AgriEngineering-2E6DA4?style=flat-square)<br>
-<sub>Provenance audit, class–source confounding and stability of architecture selection under domain shift</sub>
+### Submitted — editorial decision pending
 
-**[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-Chemolab-2E6DA4?style=flat-square)<br>
-<sub>Leave-one-experiment-out validation, prospective spectral normalization and probabilistic reliability</sub>
+**[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-SN%20Computer%20Science-2E6DA4?style=flat-square)<br>
+<sub>Experiment Shift, Composition-Dependent Domain Normalization, and Probabilistic Reliability in Multisensor Banana Ripeness Classification: A Leakage-Safe Evaluation · Springer</sub>
 
-**[Persimmon storage time from hyperspectral imaging](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-Chemolab-2E6DA4?style=flat-square)<br>
-<sub>Baseline-referenced models, fruit-disjoint nested validation and matched null controls</sub>
+**[Persimmon storage time from hyperspectral imaging](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-Foods%20%28MDPI%29-2E6DA4?style=flat-square)<br>
+<sub>Fruit-Disjoint and Matched-Null Validation of Baseline-Referenced Hyperspectral Models for Tracking Persimmon Storage Time</sub>
+
+<sub>Editorial statuses updated on 13 November 2026 from author-provided information; acceptance does not imply publication or an assigned journal DOI. The barley status is retained from the pre-existing profile.</sub>
 
 ### In preparation
 
@@ -70,7 +72,6 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 **[AgroVisión: from pixel to decision](https://github.com/Julians30/AgroVision)**&nbsp;&nbsp;![Book](https://img.shields.io/badge/Book-Companion%20material-2F855A?style=flat-square)<br>
 <sub>Computer vision applied to oil palm and broiler chickens (book in Spanish)</sub>
 
-<sub>*Chemolab: Chemometrics and Intelligent Laboratory Systems.*</sub>
 
 ## Applications and other projects
 
