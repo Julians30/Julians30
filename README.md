@@ -67,11 +67,13 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 **[Pig instance segmentation and operational reliability](https://github.com/Julians30/pig-instance-segmentation-reliability)**&nbsp;&nbsp;![In preparation](https://img.shields.io/badge/In%20preparation-SN%20Computer%20Science-8250DF?style=flat-square)<br>
 <sub>Three architectures and three seeds: segmentation, counting, geometry and calibration on FaroPigSeg with date-disjoint partitions</sub>
 
-### Book
+### Books
 
-**[AgroVisión: from pixel to decision](https://github.com/Julians30/AgroVision)**&nbsp;&nbsp;![Book](https://img.shields.io/badge/Book-Companion%20material-2F855A?style=flat-square)<br>
-<sub>Computer vision applied to oil palm and broiler chickens (book in Spanish)</sub>
+**[Análisis y Modelación de Datos: Aplicaciones para la Clasificación de Granos Oryza Sativa L con Inteligencia Artificial](https://www.editorial-sciela.org/index.php/sciela/article/view/24)**&nbsp;&nbsp;![Published](https://img.shields.io/badge/Published-Editorial%20SciELa%20%282025%29-2F855A?style=flat-square)<br>
+<sub>Book co-authored by José Julián Coronel Reyes and colleagues · [DOI 10.62131/978-9942-7264-6-9](https://doi.org/10.62131/978-9942-7264-6-9)</sub>
 
+**[AgroVisión: del píxel a la decisión](https://github.com/Julians30/AgroVision)**&nbsp;&nbsp;![Under editorial review](https://img.shields.io/badge/Under%20editorial%20review-SciELa-2E6DA4?style=flat-square)<br>
+<sub>Procesamiento digital de imágenes y visión artificial aplicada a la producción agropecuaria · Oil palm and broiler chickens · Submitted to Editorial SciELa, currently under review as reported by the author (13 November 2026); no book publication or book DOI claimed</sub>
 
 ## Applications and other projects
 
