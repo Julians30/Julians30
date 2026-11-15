@@ -64,11 +64,11 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 
 ### Submitted — editorial decision pending
 
-**[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-Foods%20%28MDPI%29-2E6DA4?style=flat-square)<br>
-<sub>Experiment Shift, Composition-Dependent Domain Normalization, and Probabilistic Reliability in Multisensor Banana Ripeness Classification: A Leakage-Safe Evaluation · Submitted to Foods (MDPI)</sub>
+**[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-SN%20Computer%20Science%20%28Springer%29-2E6DA4?style=flat-square)<br>
+<sub>Experiment Shift, Composition-Dependent Domain Normalization, and Probabilistic Reliability in Multisensor Banana Ripeness Classification: A Leakage-Safe Evaluation · Submitted to SN Computer Science (Springer)</sub>
 
-**[Persimmon storage time from hyperspectral imaging](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-SN%20Computer%20Science%20%28Springer%29-2E6DA4?style=flat-square)<br>
-<sub>Fruit-Disjoint and Matched-Null Validation of Baseline-Referenced Hyperspectral Models for Tracking Persimmon Storage Time</sub>
+**[Persimmon storage time from hyperspectral imaging](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-Foods%20%28MDPI%29-2E6DA4?style=flat-square)<br>
+<sub>Fruit-Disjoint and Matched-Null Validation of Baseline-Referenced Hyperspectral Models for Tracking Persimmon Storage Time · Submitted to Foods (MDPI)</sub>
 
 <sub>Publication metadata for the newly listed articles was verified on 14 November 2026. Journal destinations for banana, persimmon and pig studies were updated on the same date from author-provided information. Acceptance does not imply publication or an assigned journal DOI. The other editorial statuses, including barley, are retained from the pre-existing profile.</sub>
 
