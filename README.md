@@ -34,6 +34,16 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 
 ### Published and accepted
 
+**[Older adults and economic protection in Ecuador](https://github.com/Julians30/enemdu-2025-economic-protection-older-adults)**&nbsp;&nbsp;[![Published](https://img.shields.io/badge/Published-MLAJ%202026-2F855A?style=flat-square)](https://doi.org/10.62131/MLAJ-V4-N3-028)<br>
+<sub>Heterogeneidad socioeconómica y protección económica de los adultos mayores en Ecuador: segmentación y clasificación mediante aprendizaje automático a partir de la ENEMDU 2025 · Multidisciplinary Latin American Journal (MLAJ), 4(3), 398–433 · Published 13 November 2026 · [DOI 10.62131/MLAJ-V4-N3-028](https://doi.org/10.62131/MLAJ-V4-N3-028)</sub><br>
+<sub>Graduation research for the M.Sc. in Economics, Applied Artificial Intelligence, UNEMI.</sub>
+
+**[Egg storage time using a low-cost NIR spectrometer and machine learning](https://doi.org/10.1016/j.compag.2017.12.030)**&nbsp;&nbsp;[![Published](https://img.shields.io/badge/Published-2018-2F855A?style=flat-square)](https://doi.org/10.1016/j.compag.2017.12.030)<br>
+<sub>Determination of egg storage time at room temperature using a low-cost NIR spectrometer and machine learning techniques · Computers and Electronics in Agriculture, 145, 1–10 · February 2018 · [DOI 10.1016/j.compag.2017.12.030](https://doi.org/10.1016/j.compag.2017.12.030)</sub><br>
+<sub>First journal article; associated with undergraduate graduation research in Agricultural Economics, UTMACH.</sub>
+
+<sub>Full citations for these two publications: [BibTeX](PUBLICATIONS.bib).</sub>
+
 **[Machine-learning classification of INIAP rice grains](https://github.com/Julians30/iniap-rice-ml-classification)**&nbsp;&nbsp;[![Published](https://img.shields.io/badge/Published-AgriEngineering%202026-2F855A?style=flat-square)](https://www.mdpi.com/2624-7402/8/3/100)<br>
 <sub>Comparative Evaluation of Machine Learning Algorithms for the Identification and Morphological Classification of Rice Grains · [DOI 10.3390/agriengineering8030100](https://doi.org/10.3390/agriengineering8030100)</sub>
 
@@ -54,17 +64,17 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 
 ### Submitted — editorial decision pending
 
-**[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-SN%20Computer%20Science-2E6DA4?style=flat-square)<br>
-<sub>Experiment Shift, Composition-Dependent Domain Normalization, and Probabilistic Reliability in Multisensor Banana Ripeness Classification: A Leakage-Safe Evaluation · Springer</sub>
+**[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-Foods%20%28MDPI%29-2E6DA4?style=flat-square)<br>
+<sub>Experiment Shift, Composition-Dependent Domain Normalization, and Probabilistic Reliability in Multisensor Banana Ripeness Classification: A Leakage-Safe Evaluation · Submitted to Foods (MDPI)</sub>
 
-**[Persimmon storage time from hyperspectral imaging](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-Foods%20%28MDPI%29-2E6DA4?style=flat-square)<br>
+**[Persimmon storage time from hyperspectral imaging](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking)**&nbsp;&nbsp;![Submitted](https://img.shields.io/badge/Submitted-SN%20Computer%20Science%20%28Springer%29-2E6DA4?style=flat-square)<br>
 <sub>Fruit-Disjoint and Matched-Null Validation of Baseline-Referenced Hyperspectral Models for Tracking Persimmon Storage Time</sub>
 
-<sub>Editorial statuses updated on 13 November 2026 from author-provided information; acceptance does not imply publication or an assigned journal DOI. The barley status is retained from the pre-existing profile.</sub>
+<sub>Publication metadata for the newly listed articles was verified on 14 November 2026. Journal destinations for banana, persimmon and pig studies were updated on the same date from author-provided information. Acceptance does not imply publication or an assigned journal DOI. The other editorial statuses, including barley, are retained from the pre-existing profile.</sub>
 
 ### In preparation
 
-**[Pig instance segmentation and operational reliability](https://github.com/Julians30/pig-instance-segmentation-reliability)**&nbsp;&nbsp;![In preparation](https://img.shields.io/badge/In%20preparation-SN%20Computer%20Science-8250DF?style=flat-square)<br>
+**[Pig instance segmentation and operational reliability](https://github.com/Julians30/pig-instance-segmentation-reliability)**&nbsp;&nbsp;![In preparation](https://img.shields.io/badge/In%20preparation-Machine%20Vision%20and%20Applications-8250DF?style=flat-square)<br>
 <sub>Three architectures and three seeds: segmentation, counting, geometry and calibration on FaroPigSeg with date-disjoint partitions</sub>
 
 ### Books
