@@ -91,7 +91,7 @@ Editorial categories below are **deliberately separated**. A submitted or accept
 
 | Project | What can be explored |
 |:--|:--|
-| [Bovine milk — cow-disjoint NIR validation](https://github.com/Julians30/bovine-milk-nir-cow-validation) | Prediction of milk components, with explicit animal-level grouping; **private repository, not accessible to general visitors** |
+| **Bovine milk — cow-disjoint NIR validation** | Prediction of milk components, with explicit animal-level grouping; **private repository, not accessible to general visitors** |
 | [Real-time rice grain counter](https://github.com/Julians30/contador-arroz-tiempo-real) | Browser-based counting prototype; not yet a validated metrology instrument |
 | [AgroVisión](https://github.com/Julians30/AgroVision) | Research and teaching materials for oil-palm classification and broiler monitoring; associated book under editorial review |
 | [Distribution centers in Ecuador](https://github.com/Julians30/Ecuador-distribution-centers) | Illustrative geographic facility-location optimization |
