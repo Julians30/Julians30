@@ -65,6 +65,7 @@ Editorial categories below are **deliberately separated**. A submitted or accept
 | **Comparative Evaluation of Machine Learning Algorithms for the Identification and Morphological Classification of Rice Grains** | *AgriEngineering* (2026), 8(3), 100 | [Article DOI](https://doi.org/10.3390/agriengineering8030100) · [Code](https://github.com/Julians30/iniap-rice-ml-classification) |
 | **Determination of egg storage time at room temperature using a low-cost NIR spectrometer and machine learning techniques** | *Computers and Electronics in Agriculture* (2018), 145, 1–10 | [Article DOI](https://doi.org/10.1016/j.compag.2017.12.030) |
 | **Heterogeneidad socioeconómica y protección económica de los adultos mayores en Ecuador** | *Multidisciplinary Latin American Journal* (2026), 4(3), 398–433 | [Article DOI](https://doi.org/10.62131/MLAJ-V4-N3-028) · [Research repository](https://github.com/Julians30/enemdu-2025-economic-protection-older-adults) |
+| **Class–Source Confounding and Task-Dependent Architecture Rankings in a Multi-Source Benchmark for Maize Disease and Pest Image Classification** | *AgriEngineering* (2026), 8(12), 515 | [Article DOI](https://doi.org/10.3390/agriengineering8120515) · [Code](https://github.com/Julians30/maize-class-source-domain-shift) |
 
 [Selected published-article citations (BibTeX)](PUBLICATIONS.bib)
 
@@ -84,7 +85,6 @@ Editorial categories below are **deliberately separated**. A submitted or accept
 | **Paddy Doctor — cultivar-associated domain shift with exact age matching** | *SN Computer Science* · **submitted 21 Nov 2026**, ID **SNCS-D-26-10844** · *New Submission* on submission date | [Project + Zenodo record](https://github.com/Julians30/paddydoctor-cultivar-phenology-shift) |
 | **Low-cost multisensor banana ripeness under experiment shift** | *SN Computer Science* · submitted 13 Nov 2026, ID **SNCS-D-26-10441** · *Reviewers Assigned* on 19 Nov 2026 | [Project](https://github.com/Julians30/banana-ripeness-experiment-shift) |
 | **Pig instance segmentation with compute-matched and date-disjoint evaluation** | *Machine Vision and Applications* · *With Editor* as reported 20 Nov 2026 | [Project + Zenodo record](https://github.com/Julians30/pig-instance-segmentation-reliability) |
-| **Maize class–source confounding and multi-source domain shift** | *AgriEngineering* · revision-stage materials; **acceptance not independently confirmed** | [Project + research archive](https://github.com/Julians30/maize-class-source-domain-shift) |
 | **Persimmon storage-time modeling from hyperspectral images** | Manuscript in editorial cycle; project README records a *Foods* submission as of 14 Nov 2026; **latest destination/status to be reconfirmed** | [Project](https://github.com/Julians30/persimmon-hsi-longitudinal-tracking) |
 
 ### Reproducible projects and prototypes
