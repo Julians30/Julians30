@@ -37,6 +37,9 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 **[Machine-learning classification of INIAP rice grains](https://github.com/Julians30/iniap-rice-ml-classification)**&nbsp;&nbsp;[![Published](https://img.shields.io/badge/Published-AgriEngineering%202026-2F855A?style=flat-square)](https://www.mdpi.com/2624-7402/8/3/100)<br>
 <sub>Comparison of machine-learning algorithms for classifying rice grains by morphology · [DOI 10.3390/agriengineering8030100](https://doi.org/10.3390/agriengineering8030100)</sub>
 
+**[Class–source confounding and domain shift in maize images](https://github.com/Julians30/maize-class-source-domain-shift)**&nbsp;&nbsp;[![Published](https://img.shields.io/badge/Published-AgriEngineering%202026-2F855A?style=flat-square)](https://www.mdpi.com/2624-7402/8/12/515)<br>
+<sub>Provenance audit, class–source confounding and stability of architecture selection under domain shift · [DOI 10.3390/agriengineering8120515](https://doi.org/10.3390/agriengineering8120515)</sub>
+
 **[Shell-egg storage time from portable NIR spectra](https://github.com/Julians30/Leakage-Safe-Shell-Egg-Storage-Time-Estimation-from-Portable-NIR-Spectra)**&nbsp;&nbsp;![Accepted](https://img.shields.io/badge/Accepted-AgriEngineering-2F855A?style=flat-square)<br>
 <sub>Storage-time estimation from portable spectra with validation that keeps each egg in a single partition</sub>
 
@@ -50,9 +53,6 @@ My work centers on rigorous model evaluation: partitions that respect the experi
 
 **[Morphometric classification of INIAP dry beans](https://github.com/Julians30/INIAP-Dry-Bean-Morphometric-Classification)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-AgriEngineering-2E6DA4?style=flat-square)<br>
 <sub>Classical and tabular models, TabPFN, calibration, selective prediction and redundancy analysis</sub>
-
-**[Class–source confounding and domain shift in maize images](https://github.com/Julians30/maize-class-source-domain-shift)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-AgriEngineering-2E6DA4?style=flat-square)<br>
-<sub>Provenance audit, class–source confounding and stability of architecture selection under domain shift</sub>
 
 **[Banana ripeness under experiment shift](https://github.com/Julians30/banana-ripeness-experiment-shift)**&nbsp;&nbsp;![Under review](https://img.shields.io/badge/Under%20review-Chemolab-2E6DA4?style=flat-square)<br>
 <sub>Leave-one-experiment-out validation, prospective spectral normalization and probabilistic reliability</sub>
