@@ -162,5 +162,5 @@ También se documentan artículos **publicados**, trabajos **aceptados en proces
 **Colaboración:** [Correo institucional](mailto:jcoronel1@utmachala.edu.ec) · [ORCID](https://orcid.org/0000-0002-7883-5388) · [Repositorio de publicaciones](PUBLICATIONS.bib).
 
 <div align="center">
-  <sub>Research profile curated 21 November 2026 · Editorial statuses are evidence snapshots and may change.</sub>
+  <sub>Research profile curated 27 November 2026 · Editorial statuses are evidence snapshots and may change.</sub>
 </div>
